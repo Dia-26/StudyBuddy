@@ -91,11 +91,3 @@ The frontend files (HTML, CSS, JavaScript) are located in the `templates` and `s
    deactivate
    ```
 
----
-
-## **Contributing**
-Feel free to fork the repository and make improvements. If you have any ideas, suggestions, or improvements, create a pull request, and we'll review it.
-
----
-
-By following these steps, you'll be able to set up StudyBuddy locally, experiment with its features, and contribute to its future development!
